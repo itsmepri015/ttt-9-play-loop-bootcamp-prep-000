@@ -49,7 +49,7 @@ def play(board)
   counter += 1
   
 
-  tunrs == 0
+  turns == 0
   
   while turns < 9
   
